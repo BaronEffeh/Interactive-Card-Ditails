@@ -162,3 +162,12 @@ button {
     padding: 15px;
     /* padding-top: 20px; */
 }
+
+@media screen and (max-width: 600px) {
+    .sideBar {
+        top: 0px;
+        left: 0px;
+        height: 30%;
+        width: 100%;
+    }
+}
