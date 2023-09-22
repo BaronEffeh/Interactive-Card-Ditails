@@ -9,7 +9,7 @@ body {
     left: 0px;
     height: 100%;
     width: 30%;
-    background-color: rgb(45, 3, 61);
+    /* background-color: rgb(45, 3, 61); */
     background: linear-gradient(-45deg, #5c058f 5%, rgb(26, 2, 36));
     color: aqua;
     z-index: -1;
@@ -114,7 +114,7 @@ button {
     border-radius: 50%;
 }
 
-.cardFrontNumber {
+#cardFrontNumber {
     position: absolute;
     bottom: 60px;
     left: 15px;
